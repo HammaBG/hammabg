@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Carol42/Carol42/blob/main/assets/header.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mohamed Amine Boughnimi</h1>
 <h3 align="center">Researcher in innovative and improved solutions. Excited to be in the publishing phase of my career as developer.</h3>
-<img align="right"  alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="center"  alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammabg&label=Profile%20views&color=0e75b6&style=flat" alt="hammabg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammabg" alt="hammabg" /></a> </p>
